@@ -22,12 +22,18 @@ N(1 ≤ N ≤ 100,000)개의 로프가 있다. 이 로프를 이용하여 이런
     
  ---
  ### 풀이과정
- 
+
+```text
 1. 로프의 개수를 입력 받는다. (n)
+
 2. 각 로프마다 버틸 수 있는 최대 중량을 입력 받는다. (rope)
+
 3. 내림차 순으로 무게를 정렬해준다.
+
 4. n 만큼 반복을 하며 rope\[i] * (i + 1) 의 값을 weight에 저장해준다. (weight)
+
 5. max 메소드를 통해 weight 중 가장 큰 값을 출력한다.
+```
 ---
 <img src=https://images.velog.io/images/soshin_dev/post/84f50cac-b545-4e79-b852-33246b60b3da/image.png style="height:700px">
 <img src=https://images.velog.io/images/soshin_dev/post/18bd274f-412a-4cd7-93c0-f873d86e40da/image.png style="height:700px">
