@@ -27,4 +27,3 @@ while dq:  # 큐가 빌 때 까지 반복
 
 if check[destination - 1] == -1:
     print(-1)
-
