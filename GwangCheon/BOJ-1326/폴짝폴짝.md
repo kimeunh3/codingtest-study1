@@ -45,7 +45,7 @@
  ---
   
    ### 풀이과정
-
+```text
   1. 징검다리 개수 입력받기 (N)
   
   2. 징검다리 마다 갈 수 있는 거리 입력 ( bridge )
@@ -69,7 +69,7 @@
  11. 위 7번부터 10번까지 while문을 통해 큐가 빌때 까지 반복
  
  12. 만약 반복문을 모두 돌았는데도 불구하고 check 리스트의 도착점 부분이 -1 로 업데이트가 되어있지 않다면 -1 을 출력 
- 
+ ```
   ![](https://images.velog.io/images/soshin_dev/post/5e92c368-4b4b-4a3c-b982-088d75f9e136/KakaoTalk_20220124_145605950.jpg)
   ![](https://images.velog.io/images/soshin_dev/post/81b94b86-fac9-4f83-9b93-909f597692a0/KakaoTalk_20220124_145605950_01.jpg)
   ![](https://images.velog.io/images/soshin_dev/post/b2bf9afe-c8c2-42fd-a863-2162e035bae8/KakaoTalk_20220124_145605950_02.jpg)
