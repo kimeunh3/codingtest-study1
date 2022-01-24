@@ -1,3 +1,4 @@
+# 1326번 폴짝폴짝
 from collections import deque
 
 N = int(input())
