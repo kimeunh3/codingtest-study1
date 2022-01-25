@@ -12,7 +12,7 @@
 
 ---
 ### 입력
-입력의 <span style="color: orange;">**첫 줄에는 테스트케이스의 개수 T**</span>가 주어진다. <span style="color: orange;">**각각의 테스트 케이스에 대해 현재 위치 x 와 목표 위치 y 가 정수로 주어지며, x는 항상 y보다 작은 값을 갖는다.**</span> (0 ≤ x < y < $2^{31}$)
+입력의 <span style="color: orange;">**첫 줄에는 테스트케이스의 개수 T**</span>가 주어진다. <span style="color: orange;">**각각의 테스트 케이스에 대해 현재 위치 x 와 목표 위치 y 가 정수로 주어지며, x는 항상 y보다 작은 값을 갖는다.**</span> (0 ≤ x < y < 2^31)
 
 ---
 ### 변수 설명
