@@ -36,7 +36,7 @@
 5. max_t 에 가장 많은 병사를 가진 key 값을 저장
 6. land_t 값 보다 land_dic[max_t] 값이 크면 max_t 값을 출력 작으면 "SYJKGW" 를 출력한다.
 
-<b>위 과정을 n 만큼 반복 </b>
+**위 과정을 n 만큼 반복**
 ```
 ---
    <img src=https://images.velog.io/images/soshin_dev/post/d0e6507c-b6e9-4afa-a863-559208b3f6f6/image.png style="height:700px">
