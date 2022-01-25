@@ -2,7 +2,7 @@ from collections import deque
 
 def BFSFrog(From, To, Stone, T) :
     Visited = [-1] * T
-    Main = deque()
+    Main = deque() # BFS를 위한 배여
     Main.append(From) # currNode 용
     Visited[From] = 0
     while Main :
@@ -21,10 +21,7 @@ def BFSFrog(From, To, Stone, T) :
                 if i == To:
                     return Visited[i]
 
-
-
     return -1
-
 
 T = int(input())
 tmpList = input().split()
