@@ -7,7 +7,6 @@
 def get_arr(n, l):
     result_list = []
     for length in range(l, 101):
-        print("len >> ", length)
         if length % 2 == 1:
             if n % length == 0: # 평균이 int면 나머지는 0이다.
                 mean = int(n / length) # 중간값을 기준으로 수열의 범위를 구한다.
