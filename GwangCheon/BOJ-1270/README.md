@@ -27,7 +27,7 @@
  ---
 
 ### 풀이과정
-
+```text
 1. 땅의 개수 입력 (n)
 2. 최대 병사 수, 병사들을 한줄에 입력 (t)
 3. land_t 에 땅의 최대 병사의 절반을 저장 이때 정수형이여야 하므로 // 로 나눈다.
@@ -36,7 +36,7 @@
 6. land_t 값 보다 land_dic[max_t] 값이 크면 max_t 값을 출력 작으면 "SYJKGW" 를 출력한다.
 
 <b>위 과정을 n 만큼 반복 </b>
-  
+```
 ---
    <img src=https://images.velog.io/images/soshin_dev/post/d0e6507c-b6e9-4afa-a863-559208b3f6f6/image.png style="height:700px">
 <img src=https://images.velog.io/images/soshin_dev/post/6bc45930-2aa5-4ccc-9fdc-89b20daf592e/image.png style="height:700px">
