@@ -4,6 +4,7 @@ length = int(List[1])
 count = 0
 flag = True
 
+
 while length <= 100 :
 
         if length % 2 != 0 :
@@ -11,7 +12,7 @@ while length <= 100 :
             plus_minus = int(length/2)
             tmpcount = 0
             tmpList = []
-            for i in range (quotient-plus_minus, quotient+plus_minus+1) :
+            for i in range (quotient-plus_minus, quotient+plus_minus+1) : #기준 quotient 부터 +- plus_minus를 해줘서 합의 범위를 구합니다.
                 tmpcount = tmpcount + i
                 tmpList.append(i)
 
@@ -31,7 +32,7 @@ while length <= 100 :
             plus_minus = int(length / 2)
             tmpcount = 0
             tmpList = []
-            for i in range(quotient - plus_minus + 1, quotient + plus_minus + 1):
+            for i in range(quotient - plus_minus + 1, quotient + plus_minus + 1): #예제의 규칙에서 찾을 수 있습니다.
                 tmpcount = tmpcount + i
                 tmpList.append(i)
 
