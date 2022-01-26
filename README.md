@@ -10,3 +10,11 @@
 | 4 | 22-01-25 | 폴짝폴짝 | [문제](https://www.acmicpc.net/problem/1326) | | ❌| |
 | 5 | 22-01-25 | 수열의 합 | [문제](https://www.acmicpc.net/problem/1024) | | ❌| |
 | 6 | 22-01-25 | Fly me to the Alpha Centauri | [문제](https://www.acmicpc.net/problem/1011) | | ❌| |
+
+## Tips
+ - from collections import defaultdict
+    - dict\[i\] += 1 (초기화 없이 사용가능)
+ - BFS: 큐를 이용 (from collections import deque) 
+    - 최단거리 문제 (DFS보다 빠를때가 많음)
+ - DFS: 스택를 이용 (python list 사용)
+    - 백트래킹 문제 (모든 경우의 수를 봐야할 때)
