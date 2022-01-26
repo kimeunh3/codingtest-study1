@@ -19,7 +19,6 @@ def get_minCount(n, num_list, a, b):
             if visited[i] == -1:
                 dq.append(i)
                 visited[i] = visited[node] + 1
-                print(visited[node], visited[i])
                 if i == b-1:
                     return visited[i]
         for n in range(node, -1, -num_list[node]):
