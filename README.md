@@ -21,3 +21,5 @@
  - import sys
     - sys.setrecursionlimit(limit_number)
       - 재귀함수 제한 해제하고 싶을 때 ( default = 1000 )
+    - sys.stdin.readline()
+      - 입력 받을 때 ( input 보다 속도상에서 우위, 문자열로 입력받을 때 \n 개행까지 입력받으므로 주의 )
