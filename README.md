@@ -12,20 +12,24 @@
 | 6 | 22-01-25 | Fly me to the Alpha Centauri | [문제](https://www.acmicpc.net/problem/1011) | | ❌| |
 
 ## Tips
- - from collections import defaultdict
+ - **from collections import defaultdict**
     - dict\[i\] += 1 (초기화 없이 사용가능)
- - for-else, while-else 구문  
+ 
+ - **for-else, while-else 구문**
+   ```python
    for or while:  
       블라블라  
       break  
-   else:  
-      break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드  
- - BFS: 큐를 이용 (from collections import deque) 
+   else:
+   # break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드
+   ```  
+      
+ - **BFS: 큐를 이용 (from collections import deque)**
     - 최단거리 문제 (DFS보다 빠를때가 많음)
- - DFS: 스택를 이용 (python list 사용)
+ - **DFS: 스택를 이용 (python list 사용)**
     - 백트래킹 문제 (모든 경우의 수를 봐야할 때)
- - import sys
-    - sys.setrecursionlimit(limit_number)
+ - **import sys**
+    - ``sys.setrecursionlimit(limit_number)``
       - 재귀함수 제한 해제하고 싶을 때 ( default = 1000 )
-    - sys.stdin.readline()
+    - ``sys.stdin.readline()``
       - 입력 받을 때 ( input 보다 속도상에서 우위, 문자열로 입력받을 때 \n 개행까지 입력받으므로 주의 )
