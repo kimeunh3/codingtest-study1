@@ -14,12 +14,12 @@
 ## Tips
  - from collections import defaultdict
     - dict\[i\] += 1 (초기화 없이 사용가능)
- - for-else, while-else 구문
-   for or while:
-      블라블라
-      break
-   else:
-      break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드
+ - for-else, while-else 구문  
+   for or while:  
+      블라블라  
+      break  
+   else:  
+      break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드  
  - BFS: 큐를 이용 (from collections import deque) 
     - 최단거리 문제 (DFS보다 빠를때가 많음)
  - DFS: 스택를 이용 (python list 사용)
