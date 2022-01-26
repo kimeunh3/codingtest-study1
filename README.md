@@ -18,3 +18,6 @@
     - 최단거리 문제 (DFS보다 빠를때가 많음)
  - DFS: 스택를 이용 (python list 사용)
     - 백트래킹 문제 (모든 경우의 수를 봐야할 때)
+ - import sys
+    - sys.setrecursionlimit(limit_number)
+      - 재귀함수 제한 해제하고 싶을 때 ( default = 1000 )
