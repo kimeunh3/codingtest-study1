@@ -5,6 +5,7 @@ def BFSFrog(From, To, Stone, T) :
     Main = deque() # BFS를 위한 배여
     Main.append(From) # currNode 용
     Visited[From] = 0
+
     while Main :
         currNode = Main.popleft()
         for i in range(currNode, T, Stone[currNode]) : #뒤로 순회
