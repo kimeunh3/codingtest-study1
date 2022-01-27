@@ -11,9 +11,7 @@ def solution(sizes):
            base.append(sizes[i][1])
            height.append(sizes[i][0]) #저장 완료
 
-    base.sort()
-    height.sort()
-    answer = base[length-1] * height[length -1]
+    answer = max(base) * max(height)
     return answer
 
 
