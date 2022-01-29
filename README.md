@@ -3,7 +3,7 @@
 ## 풀이 목록
 
 | # | 날짜 | 문제이름 | 링크 | 풀이 | 완료 | Best |
-| :-: | :------: | :------: | :----------------------------------: | :-----------------------------------------------------: | :--: | :----: |
+| :-: | :------: | :--------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :----: |
 | 1 | 22-01-25 | 로프 |  [문제](https://www.acmicpc.net/problem/2217)  |  [BOJ-2217](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/BOJ-2217)  | ✔ | 신광천 |
 | 2 | 22-01-25 | 전쟁-땅따먹기 |  [문제](https://www.acmicpc.net/problem/1270)  |  [BOJ_1270](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_01/BOJ_1270)  | ✔ | 김은혜 |
 | 3 | 22-01-25 | 폴짝폴짝 |  [문제](https://www.acmicpc.net/problem/1326)  |  [퐁당퐁당.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/Python_%ED%90%81%EB%8B%B9%ED%90%81%EB%8B%B9.py)  | ✔ | 이호산 |
@@ -11,8 +11,8 @@
 | 5 | 22-01-25 | Fly me to the Alpha Centauri |  [문제](https://www.acmicpc.net/problem/1011)  | [1011. 골드1 Fly to Alphacentaury.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Nojongchan/1011.%20%EA%B3%A8%EB%93%9C1%20Fly%20to%20Alphacentaury.py) | ✔ |  노종찬 |
 | 6 | 22-01-29 | 최소직사각형 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/86491)  | [최소직사각형.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/1%EC%A3%BC%EC%B0%A8-2/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.py) | ✔ | 양해찬 |
 | 7 | 22-01-29 | 카펫 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42842)  | [프로그래머스_카펫](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B9%B4%ED%8E%AB) | ✔ | 배서영 |
-| 8 | 22-01-29 | 후보키 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42890)  |  | ✔ |  |
-| 9 | 22-01-29 | 단어 변환 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43163)  |  | ✔ |  |
+| 8 | 22-01-29 | 후보키 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42890)  | [프로그래머스_후보키](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%ED%9B%84%EB%B3%B4%ED%82%A4) | ✔ | 배서영 |
+| 9 | 22-01-29 | 단어 변환 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43163)  | [단어변환.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py) | ✔ | 이호산 |
 | 10 | 22-02-02 | 나무자르기 |  [문제](https://www.acmicpc.net/problem/2805)  | []() | ❌ |  |
 | 11 | 22-02-02 | 회의실배정 |  [문제](https://www.acmicpc.net/problem/1931)  | []() | ❌ |  |
 | 12 | 22-02-02 | 정수삼각형 |  [문제](https://www.acmicpc.net/problem/1932)  | []() | ❌ |  |
