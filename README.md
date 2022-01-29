@@ -16,14 +16,28 @@
 
 ## Tips
 
-- **from collections import defaultdict**
+- **defaultdict**
+```python
+from collections import defaultdict
+d_dict = defaultdict()
+d_dict[i] += 1 #초기화 없이 사용가능
+```
+- **Counter**
+```python
+from collections import Counter
+items = [2, 2, 1, 1, 1, 1, 1, 3, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5] # Counter({5: 6, 1: 5, 3: 3, 2: 2, 4: 2})
+str1 = "eeeeelllllllllliiiiiccccccccee" # Counter({'l': 10, 'c': 8, 'e': 7, 'i': 5})
+cnt1 = Counter(items)
+cnt2 = Counter(str1)
+# 가장 많은 top 3
+cnt1.most_common(3) # [(5, 6), (1, 5), (3, 3)]
+cnt2.most_common(3) # [('l', 10), ('c', 8), ('e', 7)]
 
-  - dict\[i\] += 1 (초기화 없이 사용가능)
-
+```
 - **for-else, while-else 구문**
   ```python
   for or while:
-     블라블라
+     # 블라블라
      break
   else:
   # break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드
