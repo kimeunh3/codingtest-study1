@@ -13,10 +13,10 @@
 | 7 | 22-01-29 | 카펫 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42842)  | [프로그래머스_카펫](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4_%EC%B9%B4%ED%8E%AB) | ✔ | 배서영 |
 | 8 | 22-01-29 | 후보키 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42890)  |  | ✔ |  |
 | 9 | 22-01-29 | 단어 변환 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43163)  |  | ✔ |  |
-| 10 | 22-02-02 | 나무자르기 |  []()  | []() | ❌ |  |
-| 11 | 22-02-02 | 회의실배정 |  []()  | []() | ❌ |  |
-| 12 | 22-02-02 | 정수삼각형 |  []()  | []() | ❌ |  |
-| 13 | 22-02-02 | 단지번호붙이기 |  []()  | []() | ❌ |  |
+| 10 | 22-02-02 | 나무자르기 |  [문제](https://www.acmicpc.net/problem/2805)  | []() | ❌ |  |
+| 11 | 22-02-02 | 회의실배정 |  [문제](https://www.acmicpc.net/problem/1931)  | []() | ❌ |  |
+| 12 | 22-02-02 | 정수삼각형 |  [문제](https://www.acmicpc.net/problem/1932)  | []() | ❌ |  |
+| 13 | 22-02-02 | 단지번호붙이기 |  [문제](https://www.acmicpc.net/problem/2667)  | []() | ❌ |  |
 
 ## Tips
 
