@@ -3,7 +3,7 @@
 ## 풀이 목록
 
 | # | 날짜 | 문제이름 | 링크 | 풀이 | 완료 | Best |
-| :-: | :------: | :--------------------------: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :----: |
+| :-: | :------: | :------: | :----------------------------------: | :-----------------------------------------------------: | :--: | :----: |
 | 1 | 22-01-25 | 로프 |  [문제](https://www.acmicpc.net/problem/2217)  |  [BOJ-2217](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/BOJ-2217)  | ✔ | 신광천 |
 | 2 | 22-01-25 | 전쟁-땅따먹기 |  [문제](https://www.acmicpc.net/problem/1270)  |  [BOJ_1270](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_01/BOJ_1270)  | ✔ | 김은혜 |
 | 3 | 22-01-25 | 폴짝폴짝 |  [문제](https://www.acmicpc.net/problem/1326)  |  [퐁당퐁당.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/Python_%ED%90%81%EB%8B%B9%ED%90%81%EB%8B%B9.py)  | ✔ | 이호산 |
