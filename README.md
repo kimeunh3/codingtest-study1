@@ -20,6 +20,16 @@
 
 ## Tips
 
+- **permutations & combinations**
+  ```python
+  from itertools import permutations, combinations
+  items = [1, 2, 3, 4, 5]
+  # [(1, 2), (1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5), (3, 4), (3, 5), (4, 5)]
+  print(list(combinations(items, 2)))
+  # [(1, 2), (1, 3), (1, 4), (1, 5), (2, 1), (2, 3), (2, 4), (2, 5), (3, 1), (3, 2), (3, 4), (3, 5), (4, 1), (4, 2), (4, 3), (4, 5), (5, 1), (5, 2), (5, 3), (5, 4)]
+  print(list(permutations(items, 2)))
+  ```
+
 - **defaultdict**
   ```python
   from collections import defaultdict
@@ -52,7 +62,8 @@
   - `sys.setrecursionlimit(limit_number)`
     - 재귀함수 제한 해제하고 싶을 때 ( default = 1000 )
   - `sys.stdin.readline()`
-    - 입력 받을 때 ( input 보다 속도상에서 우위, 문자열로 입력받을 때 \n 개행까지 입력받으므로 주의 )
+    - 입력 받을 때 ( input 보다 속도상에서 우위, 문자열로 입력받을 때 \n 개행까지 입력받으므로 주의 )  
+
 
 - **BFS: 큐를 이용 (from collections import deque)**
   - 최단거리 문제 (DFS보다 빠를때가 많음)
