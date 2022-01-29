@@ -17,23 +17,24 @@
 ## Tips
 
 - **defaultdict**
-```python
-from collections import defaultdict
-d_dict = defaultdict()
-d_dict[i] += 1 #초기화 없이 사용가능
-```
-- **Counter**
-```python
-from collections import Counter
-items = [2, 2, 1, 1, 1, 1, 1, 3, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5] # Counter({5: 6, 1: 5, 3: 3, 2: 2, 4: 2})
-str1 = "eeeeelllllllllliiiiiccccccccee" # Counter({'l': 10, 'c': 8, 'e': 7, 'i': 5})
-cnt1 = Counter(items)
-cnt2 = Counter(str1)
-# 가장 많은 top 3
-cnt1.most_common(3) # [(5, 6), (1, 5), (3, 3)]
-cnt2.most_common(3) # [('l', 10), ('c', 8), ('e', 7)]
+  ```python
+  from collections import defaultdict
+  d_dict = defaultdict()
+  d_dict[i] += 1 #초기화 없이 사용가능
+  ```
 
-```
+- **Counter**
+  ```python
+  from collections import Counter
+  items = [2, 2, 1, 1, 1, 1, 1, 3, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5] # Counter({5: 6, 1: 5, 3: 3, 2: 2, 4: 2})
+  str1 = "eeeeelllllllllliiiiiccccccccee" # Counter({'l': 10, 'c': 8, 'e': 7, 'i': 5})
+  cnt1 = Counter(items)
+  cnt2 = Counter(str1)
+  # 가장 많은 top 3
+  cnt1.most_common(3) # [(5, 6), (1, 5), (3, 3)]
+  cnt2.most_common(3) # [('l', 10), ('c', 8), ('e', 7)]
+  ```
+
 - **for-else, while-else 구문**
   ```python
   for or while:
@@ -42,12 +43,14 @@ cnt2.most_common(3) # [('l', 10), ('c', 8), ('e', 7)]
   else:
   # break를 통해 루프가 끝나지 않았을 경우에 쓰는 코드
   ```
-- **BFS: 큐를 이용 (from collections import deque)**
-  - 최단거리 문제 (DFS보다 빠를때가 많음)
-- **DFS: 스택를 이용 (python list 사용)**
-  - 백트래킹 문제 (모든 경우의 수를 봐야할 때)
+
 - **import sys**
   - `sys.setrecursionlimit(limit_number)`
     - 재귀함수 제한 해제하고 싶을 때 ( default = 1000 )
   - `sys.stdin.readline()`
     - 입력 받을 때 ( input 보다 속도상에서 우위, 문자열로 입력받을 때 \n 개행까지 입력받으므로 주의 )
+
+- **BFS: 큐를 이용 (from collections import deque)**
+  - 최단거리 문제 (DFS보다 빠를때가 많음)
+- **DFS: 스택를 이용 (python list 사용)**
+  - 백트래킹 문제 (모든 경우의 수를 봐야할 때)
