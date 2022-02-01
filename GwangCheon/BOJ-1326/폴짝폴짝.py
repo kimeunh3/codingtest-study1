@@ -15,7 +15,7 @@ break_check = False  # 이중 for 문을 탈출하기 위한 변수
 while dq:  # 큐가 빌 때 까지 반복
     now = dq.popleft()
     for n in range(N):  # 징검 다리 수 만큼 반복 [ 징검다리에서 이동 가능한 거리의 최소 값이 1 이기 때문에  N만큼 반복했을때 도착지에 가능한지 불가능한지 알 수 있다. ]
-        if (n - now) % bridge[now] == 0 and check[n] == -1:  # 음수로도 이동이 가능하므로 n - now 로 값 지정
+        if (n - now) % bridge[now] == 0 and check[n] == -1:  # 음수로도 이동이 가능하므로 N - now 로 값 지정
             dq.append(n)  # 위치 저장
             check[n] = check[now] + 1  # 체크
             if n == destination - 1:  # 도착점과 현재 위치가 같다면
