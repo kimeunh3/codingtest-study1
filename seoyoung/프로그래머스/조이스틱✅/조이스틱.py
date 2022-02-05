@@ -16,7 +16,7 @@ def solution(name):
         while True:
             ans_temp += moves1[pos]
             moves1[pos] = 0
-            if sum(moves3) == 0:
+            if sum(moves1) == 0:
                 break
 
             if pos == i or pos == i-len(moves):
@@ -34,7 +34,7 @@ def solution(name):
     # 오른쪽으로 쭉 이동 + 왼쪽으로 갔다가 오른쪽으로 이동
     ans2 = sys.maxsize
 
-    for i in range(len(moves)-1, -1, -1):
+    for i in range(len(moves)):
         pos = 0
         moves2 = moves[:]
         ans_temp = 0
