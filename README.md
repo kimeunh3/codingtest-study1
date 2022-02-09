@@ -21,6 +21,10 @@
 | 15 | 22-02-05 | 조이스틱 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42860)  |  [조이스틱](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1%E2%9C%85) | ✔ | 배서영 |
 | 16 | 22-02-05 | 예산 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/12982)  |  [예산.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Nojongchan/%EC%98%88%EC%82%B0.py) | ✔ | 노종찬 |
 | 17 | 22-02-05 | N으로 표현 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42895)  |  [PRGRMRS_42895](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_04/PRGRMRS_42895) | ✔ | 김은혜 |
+| 18 | 22-02-12 | 크레인 인형뽑기 게임 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/64061)  |  []() | ❌ |  |
+| 19 | 22-02-12 | 카카오 프렌즈 컬러링북 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/1829)  |  []() | ❌ |  |
+| 20 | 22-02-12 | 타겟 넘버 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43165)  |  []() | ❌ |  |
+| 21 | 22-02-12 | 입국 심사 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  |  []() | ❌ |  |
 
 ## Tips
 
