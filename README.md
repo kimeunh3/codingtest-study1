@@ -22,7 +22,7 @@
 | 16 | 22-02-05 | 예산 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/12982)  |  [예산.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Nojongchan/%EC%98%88%EC%82%B0.py) | ✔ | 노종찬 |
 | 17 | 22-02-05 | N으로 표현 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42895)  |  [PRGRMRS_42895](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_04/PRGRMRS_42895) | ✔ | 김은혜 |
 | 18 | 22-02-12 | 크레인 인형뽑기 게임 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/64061)  |  []() | ❌ |  |
-| 19 | 22-02-12 | 카카오 프렌즈 컬러링북 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/1829)  |  []() | ❌ |  |
+| 19 | 22-02-12 | 빛의 경로 사이클 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/86052)  |  []() | ❌ |  |
 | 20 | 22-02-12 | 타겟 넘버 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43165)  |  []() | ❌ |  |
 | 21 | 22-02-12 | 입국 심사 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  |  []() | ❌ |  |
 
