@@ -20,8 +20,10 @@ visited = [[0]*N for _ in range(N)]
 numlist= []
 for i in range(N) :
     graph.append(list(map(int, input())))
+#입력
 
-dx = [1, -1, 0, 0]
+
+dx = [1, -1, 0, 0] #상하좌우
 dy = [0, 0, 1, -1]
 
 for a in range(N):
