@@ -25,6 +25,10 @@
 | 19 | 22-02-12 | 빛의 경로 사이클 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/86052)  |  []() | ❌ |  |
 | 20 | 22-02-12 | 타겟 넘버 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43165)  |  []() | ❌ |  |
 | 21 | 22-02-12 | 입국 심사 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  |  []() | ❌ |  |
+| 22 | 22-02-16 | 사탕게임 |  [문제](https://www.acmicpc.net/problem/3085)  |  []() | ❌ |  |
+| 23 | 22-02-16 | 퇴사 |  [문제](https://www.acmicpc.net/problem/14501)  |  []() | ❌ |  |
+| 24 | 22-02-16 | 괄호의 값 |  [문제](https://www.acmicpc.net/problem/2504)  |  []() | ❌ |  |
+| 25 | 22-02-16 | 미로탐색 |  [문제](https://www.acmicpc.net/problem/2178)  |  []() | ❌ |  |
 
 ## Tips
 
