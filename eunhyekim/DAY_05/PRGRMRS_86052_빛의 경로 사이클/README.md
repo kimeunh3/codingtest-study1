@@ -11,12 +11,14 @@ visited는 각 좌표의 상하좌우의 경로에서 들어온적이 있는지 
 여기서 하나의 cycle은 모든 좌표를 방문할 필요없이, 시작좌표에서 나간 방향으로 다시 나가게 된다면 cycle이 됩니다.  
 
 예를 들면, ["S", "S"] 라는 격자의 경우, 아래와 같은 6개의 cycle들이 있습니다.  
-<img src="https://user-images.githubusercontent.com/59808674/153693159-3701e8cc-e18a-4adf-a3bc-7a44a60b6d6e.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/59808674/153693161-ff50cc3f-3e28-47b4-82c5-14d87637e6c4.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/59808674/153693162-ec4406f7-5e80-439b-b5ed-89a9cd04f85e.png" width="30%" height="30%"><br>
-<img src="https://user-images.githubusercontent.com/59808674/153693163-4a6230bc-4a26-43ef-be03-24e842a004d7.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/59808674/153693164-15284cd3-0863-4401-ae21-6bc8be9f6285.png" width="30%" height="30%">
-<img src="https://user-images.githubusercontent.com/59808674/153693165-c031e08b-ecd0-44ef-ac0a-ce72fd039c73.png" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/59808674/153693159-3701e8cc-e18a-4adf-a3bc-7a44a60b6d6e.png" width="300">
+<img src="https://user-images.githubusercontent.com/59808674/153693161-ff50cc3f-3e28-47b4-82c5-14d87637e6c4.png" width="300"><br>
+<br>
+<img src="https://user-images.githubusercontent.com/59808674/153693162-ec4406f7-5e80-439b-b5ed-89a9cd04f85e.png" width="300"> 
+<img src="https://user-images.githubusercontent.com/59808674/153693163-4a6230bc-4a26-43ef-be03-24e842a004d7.png" width="300"><br>
+<br>
+<img src="https://user-images.githubusercontent.com/59808674/153693164-15284cd3-0863-4401-ae21-6bc8be9f6285.png" height="300">
+<img src="https://user-images.githubusercontent.com/59808674/153693165-c031e08b-ecd0-44ef-ac0a-ce72fd039c73.png" height="300">
 
 그렇기 때문에 이미 방문했던 경로라면, 중복된 cycle을 다시 세어주는 것이기 때문에  
 각각의 좌표에서 방문하지 않았던 경로만 방문하면서, 그 경로를 포함한 cycle의 길이를 구해 answer list에 넣어주면 됩니다.  
