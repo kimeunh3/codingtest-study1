@@ -35,19 +35,19 @@ visited는 각 좌표의 상하좌우의 경로에서 들어온적이 있는지 
 def turnRight(grid, d, y, x):
     nd, ny, nx = 0, 0, 0
     lenY, lenX = len(grid), len(grid[0])
-    if d == 0:
+    if d == 0: # 상
         ny = y
         nx = (lenX + x - 1) % lenX
         nd = 3
-    elif d == 1:
+    elif d == 1: # 하
         ny = y
         nx = (x + 1) % lenX
         nd = 2
-    elif d == 2:
+    elif d == 2: # 좌
         ny = (y + 1) % lenY
         nx = x
         nd = 0
-    else:
+    else: # 우
         ny = (lenY + y - 1) % lenY
         nx = x
         nd = 1
@@ -57,19 +57,19 @@ def turnRight(grid, d, y, x):
 def turnLeft(grid, d, y, x):
     nd, ny, nx = 0, 0, 0
     lenY, lenX = len(grid), len(grid[0])
-    if d == 0:
+    if d == 0: # 상
         ny = y
         nx = (x + 1) % lenX
         nd = 2
-    elif d == 1:
+    elif d == 1: # 하
         ny = y
         nx = (lenX + x - 1) % lenX
         nd = 3
-    elif d == 2:
+    elif d == 2: # 좌
         ny = (lenY + y - 1) % lenY
         nx = x
         nd = 1
-    else:
+    else: # 우
         ny = (y + 1) % lenY
         nx = x
         nd = 0
@@ -79,19 +79,19 @@ def turnLeft(grid, d, y, x):
 def goStraight(grid, d, y, x):
     nd, ny, nx = 0, 0, 0
     lenY, lenX = len(grid), len(grid[0])
-    if d == 0:
+    if d == 0: # 상
         ny = (y + 1) % lenY
         nx = x
         nd = 0
-    elif d == 1:
+    elif d == 1: # 하
         ny = (lenY + y - 1) % lenY
         nx = x
         nd = 1
-    elif d == 2:
+    elif d == 2: # 좌
         ny = y
         nx = (x + 1) % lenX
         nd = 2
-    else:
+    else: # 우
         ny = y
         nx = (lenX + x - 1) % lenX
         nd = 3
