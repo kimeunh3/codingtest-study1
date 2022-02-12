@@ -11,9 +11,9 @@ for _ in range(n):
     rows.append(list(map(int, input().split())))
 
 top = rows[0][0]
-after = rows.copy()
+after = rows.copy() # 필요 없을 듯(어차피 누적값을 적용해 나가니까)
 for i in range(1, n):
-    for idx,val in enumerate(after[i]):
+    for idx,val in enumerate(after[i]): # enumerate 사용 불필요함
         if idx == 0:
             after[i][idx] += after[i-1][0]
         elif idx == len(after[i]) - 1:
