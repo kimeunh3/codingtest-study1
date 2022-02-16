@@ -21,10 +21,10 @@
 | 15 | 22-02-05 | 조이스틱 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42860)  |  [조이스틱](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1)  | ✔ | 배서영 |
 | 16 | 22-02-05 | 예산 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/12982)  |  [예산.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Nojongchan/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%98%88%EC%82%B0.py)  | ✔ | 노종찬 |
 | 17 | 22-02-05 | N으로 표현 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/42895)  |  [PRGRMRS_42895](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_04/PRGRMRS_42895)  | ✔ | 김은혜 |
-| 18 | 22-02-12 | 크레인 인형뽑기 게임 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/64061)  |  []() | ❌ |  |
-| 19 | 22-02-12 | 빛의 경로 사이클 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/86052)  |  []() | ❌ |  |
-| 20 | 22-02-12 | 타겟 넘버 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43165)  |  []() | ❌ |  |
-| 21 | 22-02-12 | 입국 심사 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  |  []() | ❌ |  |
+| 18 | 22-02-12 | 크레인 인형뽑기 게임 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/64061)  |  [크레인 인형뽑기 게임](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84) | ✔ | 배서영 |
+| 19 | 22-02-12 | 빛의 경로 사이클 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/86052)  |  [사이클.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%82%AC%EC%9D%B4%ED%81%B4.py) | ✔ | 이호산 |
+| 20 | 22-02-12 | 타겟 넘버 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43165)  |  [Programmers_타겟_넘버](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/Programmers_%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84) | ✔ | 신광천 |
+| 21 | 22-02-12 | 입국 심사 |  [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  |  [PRGRMRS_43238_입국심사](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_05/PRGRMRS_43238_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC) | ✔ | 김은혜 |
 | 22 | 22-02-16 | 사탕게임 |  [문제](https://www.acmicpc.net/problem/3085)  |  []() | ❌ |  |
 | 23 | 22-02-16 | 퇴사 |  [문제](https://www.acmicpc.net/problem/14501)  |  []() | ❌ |  |
 | 24 | 22-02-16 | 괄호의 값 |  [문제](https://www.acmicpc.net/problem/2504)  |  []() | ❌ |  |
