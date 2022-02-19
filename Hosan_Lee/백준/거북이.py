@@ -9,8 +9,8 @@ for t in range(T):
     rotate = 0
     min_xy = [0, 0]
     max_xy = [0, 0]
-    cmd = input().rstrip()
-    for c in cmd:
+    command_line = input().rstrip()
+    for c in command_line:
         if c == "F":  # 전진
             cur[0] += pos[rotate][0]
             cur[1] += pos[rotate][1]
