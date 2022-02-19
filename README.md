@@ -33,7 +33,10 @@
 | 27  | 22-02-19 | 바이러스 | [문제](https://www.acmicpc.net/problem/2606) | []() |  ❌  |  |
 | 28  | 22-02-19 | 기타리스트 | [문제](https://www.acmicpc.net/problem/1495)  | []() |  ❌  |  |
 | 29  | 22-02-19 |  거북이  | [문제](https://www.acmicpc.net/problem/8911) | []() |  ❌  |  |
-
+| 30  | 22-02-23 | 베스트 앨범 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42579)| | ❌ | |
+| 31  | 22-02-23 | 위장 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | ❌ | |
+| 32  | 22-02-23 | 오픈 채팅방 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888)| | ❌ | |
+| 33  | 22-02-23 | 짝지어 제거하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12973)| | ❌ | |
 ## Tips
 
 - **2차원 배열 debugging 법**
