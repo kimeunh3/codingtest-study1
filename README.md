@@ -3,7 +3,7 @@
 ## 풀이 목록
 
 |  #  |   날짜   | 문제이름 | 링크 | 풀이 | 완료 |  Best  |
-| :-: | :------: | :------: | :--: | :--: | :--: | :----: |
+| :-: | :------: | :-----: | :--: | :--: | :--: | :----: |
 |  1  | 22-01-25 |   로프   | [문제](https://www.acmicpc.net/problem/2217) | [BOJ-2217](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/BOJ-2217) |  ✔  | 신광천 |
 |  2  | 22-01-25 | 전쟁-땅따먹기 | [문제](https://www.acmicpc.net/problem/1270) | [BOJ_1270](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_01/BOJ_1270) |  ✔  | 김은혜 |
 |  3  | 22-01-25 | 폴짝폴짝 | [문제](https://www.acmicpc.net/problem/1326) | [Python\_퐁당퐁당.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/Python_%ED%90%81%EB%8B%B9%ED%90%81%EB%8B%B9.py) |  ✔  | 이호산 |
@@ -29,11 +29,14 @@
 | 23  | 22-02-16 |   퇴사   | [문제](https://www.acmicpc.net/problem/14501) | [BOJ-14501-퇴사](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/BOJ-14501-%ED%87%B4%EC%82%AC) |  ✔  | 신광천 |
 | 24  | 22-02-16 | 괄호의 값 | [문제](https://www.acmicpc.net/problem/2504) | [백준 2504](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%202504) |  ✔  | 배서영 |
 | 25  | 22-02-16 | 미로탐색 | [문제](https://www.acmicpc.net/problem/2178) | [BOJ\_2178\_미로\_탐색](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_06/BOJ_2178_%EB%AF%B8%EB%A1%9C_%ED%83%90%EC%83%89) |  ✔  | 김은혜 |
-| 26  | 22-02-19 | 연산자 끼워넣기 | [문제](https://www.acmicpc.net/problem/14888) | []() |  ❌  |  |
-| 27  | 22-02-19 | 바이러스 | [문제](https://www.acmicpc.net/problem/2606) | []() |  ❌  |  |
-| 28  | 22-02-19 | 기타리스트 | [문제](https://www.acmicpc.net/problem/1495)  | []() |  ❌  |  |
-| 29  | 22-02-19 |  거북이  | [문제](https://www.acmicpc.net/problem/8911) | []() |  ❌  |  |
-
+| 26  | 22-02-19 | 연산자 끼워넣기 | [문제](https://www.acmicpc.net/problem/14888) | [BOJ-14888-연산자-끼워넣기](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/GwangCheon/BOJ-14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0) |  ✔  | 신광천 |
+| 27  | 22-02-19 | 바이러스 | [문제](https://www.acmicpc.net/problem/2606) | [백준 2606](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%202606) |  ✔  | 배서영 |
+| 28  | 22-02-19 | 기타리스트 | [문제](https://www.acmicpc.net/problem/1495)  | [백준 1495](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201495) |  ✔  | 배서영 |
+| 29  | 22-02-19 |  거북이  | [문제](https://www.acmicpc.net/problem/8911) | [거북이.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/%EA%B1%B0%EB%B6%81%EC%9D%B4.py) |  ✔  | 이호산 |
+| 30  | 22-02-23 | 베스트 앨범 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42579)| | ❌ | |
+| 31  | 22-02-23 | 위장 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | ❌ | |
+| 32  | 22-02-23 | 오픈 채팅방 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888)| | ❌ | |
+| 33  | 22-02-23 | 짝지어 제거하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12973)| | ❌ | |
 ## Tips
 
 - **2차원 배열 debugging 법**
