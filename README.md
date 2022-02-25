@@ -33,10 +33,14 @@
 | 27  | 22-02-19 | 바이러스 | [문제](https://www.acmicpc.net/problem/2606) | [백준 2606](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%202606) |  ✔  | 배서영 |
 | 28  | 22-02-19 | 기타리스트 | [문제](https://www.acmicpc.net/problem/1495)  | [백준 1495](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201495) |  ✔  | 배서영 |
 | 29  | 22-02-19 |  거북이  | [문제](https://www.acmicpc.net/problem/8911) | [거북이.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/%EA%B1%B0%EB%B6%81%EC%9D%B4.py) |  ✔  | 이호산 |
-| 30  | 22-02-23 | 베스트 앨범 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42579)| | ❌ | |
-| 31  | 22-02-23 | 위장 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| | ❌ | |
-| 32  | 22-02-23 | 오픈 채팅방 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888)| | ❌ | |
-| 33  | 22-02-23 | 짝지어 제거하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12973)| | ❌ | |
+| 30  | 22-02-23 | 베스트 앨범 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42579)| [베스트앨범.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/4%EC%A3%BC%EC%B0%A8-2/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | ✔ | 양해찬 |
+| 31  | 22-02-23 | 위장 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| [위장](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9C%84%EC%9E%A5) | ✔ | 배서영 |
+| 32  | 22-02-23 | 오픈 채팅방 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888)| [PRGRMRS_42888_오픈채팅방](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_08/PRGRMRS_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) | ✔ | 김은혜 |
+| 33  | 22-02-23 | 짝지어 제거하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12973)| [짝지어제거하기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/4%EC%A3%BC%EC%B0%A8-2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py) | ✔ | 양해찬 |
+| 34  | 22-02-26 | 접두사 | [문제](https://www.acmicpc.net/problem/1141) | | ❌ | |
+| 35  | 22-02-26 | 유기농 배추 | [문제](https://www.acmicpc.net/problem/1012) | | ❌ | |
+| 36  | 22-02-26 | A → B | [문제](https://www.acmicpc.net/problem/16953) | | ❌ | |
+| 37  | 22-02-26 | 차이를 최대로 | [문제](https://www.acmicpc.net/problem/10819) | | ❌ | |
 ## Tips
 
 - **2차원 배열 debugging 법**
