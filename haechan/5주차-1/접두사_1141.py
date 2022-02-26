@@ -9,7 +9,6 @@ if not n:
 
 result = len(arr) # 결과값은 배열의 길이가 최대값이다
 for head_str in arr:
-    cnt = 1 # 자기 자신 포함
     for string in arr:
         if head_str == string:
             continue
