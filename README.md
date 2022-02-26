@@ -41,6 +41,11 @@
 | 35  | 22-02-26 | 유기농 배추 | [문제](https://www.acmicpc.net/problem/1012) | | ❌ | |
 | 36  | 22-02-26 | A → B | [문제](https://www.acmicpc.net/problem/16953) | | ❌ | |
 | 37  | 22-02-26 | 차이를 최대로 | [문제](https://www.acmicpc.net/problem/10819) | | ❌ | |
+| 38  | 22-03-02 | 기능개발 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | | ❌ | |
+| 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | |
+| 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | | ❌ | |
+| 41  | 22-03-02 | 네트워크 | [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | | ❌ | |
+
 ## Tips
 
 - **2차원 배열 debugging 법**
