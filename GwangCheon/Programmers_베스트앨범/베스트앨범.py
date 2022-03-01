@@ -17,8 +17,9 @@ def solution(genres, plays):
 
     for i in range(len(genres)):
         best.append({'genres': genres[i], 'plays': plays[i], 'number': i})
-
+    print(best)
     best = sorted(best, key=operator.itemgetter('plays'), reverse=True)  # 많이 재생된 노래 순으로 정렬 [reverse=True로 내림차순 정렬]
+    print(best)
     for i in album:  # answer list에 값 넣기 [count를 통해 2개씩 자르기]
         count = 0
         for j in range(len(best)):
@@ -31,4 +32,4 @@ def solution(genres, plays):
 
     return answer
 
-solution(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500])
+solution(["classic", "pop", "classic", "classic", "pop"], [300, 600, 300, 2500, 2500])
