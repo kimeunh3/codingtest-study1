@@ -37,10 +37,10 @@
 | 31  | 22-02-23 | 위장 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42578)| [위장](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9C%84%EC%9E%A5) | ✔ | 배서영 |
 | 32  | 22-02-23 | 오픈 채팅방 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888)| [PRGRMRS_42888_오픈채팅방](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_08/PRGRMRS_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) | ✔ | 김은혜 |
 | 33  | 22-02-23 | 짝지어 제거하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12973)| [짝지어제거하기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/4%EC%A3%BC%EC%B0%A8-2/%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py) | ✔ | 양해찬 |
-| 34  | 22-02-26 | 접두사 | [문제](https://www.acmicpc.net/problem/1141) | | ❌ | |
-| 35  | 22-02-26 | 유기농 배추 | [문제](https://www.acmicpc.net/problem/1012) | | ❌ | |
-| 36  | 22-02-26 | A → B | [문제](https://www.acmicpc.net/problem/16953) | | ❌ | |
-| 37  | 22-02-26 | 차이를 최대로 | [문제](https://www.acmicpc.net/problem/10819) | | ❌ | |
+| 34  | 22-02-26 | 접두사 | [문제](https://www.acmicpc.net/problem/1141) | [BOJ_1141_접두사](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_09/BOJ_1141_%EC%A0%91%EB%91%90%EC%82%AC) | ✔ | 김은혜 |
+| 35  | 22-02-26 | 유기농 배추 | [문제](https://www.acmicpc.net/problem/1012) | [Python_배추.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/Python_%EB%B0%B0%EC%B6%94.py) | ✔ | 이호산 |
+| 36  | 22-02-26 | A → B | [문제](https://www.acmicpc.net/problem/16953) | [백준 16953](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%2016953) | ✔ | 배서영 |
+| 37  | 22-02-26 | 차이를 최대로 | [문제](https://www.acmicpc.net/problem/10819) | [BOJ_10819_차이를_최대로](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_09/BOJ_10819_%EC%B0%A8%EC%9D%B4%EB%A5%BC_%EC%B5%9C%EB%8C%80%EB%A1%9C) | ✔ | 김은혜 |
 | 38  | 22-03-02 | 기능개발 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | | ❌ | |
 | 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | |
 | 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | | ❌ | |
