@@ -45,6 +45,9 @@
 | 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | |
 | 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | | ❌ | |
 | 41  | 22-03-02 | 네트워크 | [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | | ❌ | |
+| 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | | ❌ | |
+| 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | | ❌ | |
+| 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | | ❌ | |
 
 ## Tips
 
