@@ -11,9 +11,10 @@ else :
 
         if i < From :
             dp.append(-1)
+        elif i == From :
+            dp.append(1)
         elif i < From * 2 :
-            dp.append(count)
-            count += 1
+            dp.append(-1)
         elif i % 2 == 0 and dp[int(i/2)] != -1:
             dp.append(dp[int(i/2)] + 1)
         elif (i - 1) % 10 == 0 and dp[int((i-1)/10)] != -1:
