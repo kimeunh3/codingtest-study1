@@ -41,10 +41,10 @@
 | 35  | 22-02-26 | 유기농 배추 | [문제](https://www.acmicpc.net/problem/1012) | [Python_배추.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/Python_%EB%B0%B0%EC%B6%94.py) | ✔ | 이호산 |
 | 36  | 22-02-26 | A → B | [문제](https://www.acmicpc.net/problem/16953) | [백준 16953](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%2016953) | ✔ | 배서영 |
 | 37  | 22-02-26 | 차이를 최대로 | [문제](https://www.acmicpc.net/problem/10819) | [BOJ_10819_차이를_최대로](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_09/BOJ_10819_%EC%B0%A8%EC%9D%B4%EB%A5%BC_%EC%B5%9C%EB%8C%80%EB%A1%9C) | ✔ | 김은혜 |
-| 38  | 22-03-02 | 기능개발 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | | ❌ | |
-| 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | | ❌ | |
-| 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | | ❌ | |
-| 41  | 22-03-02 | 네트워크 | [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | | ❌ | |
+| 38  | 22-03-02 | 기능개발 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42586) | [기능개발.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py) | ✔ | 이호산 |
+| 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수찾기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/6%EC%A3%BC%EC%B0%A8-1/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py) | ✔ | 양해찬 |
+| 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | [없는숫자더하기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/6%EC%A3%BC%EC%B0%A8-1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.py) | ✔ | 양해찬 |
+| 41  | 22-03-02 | 네트워크 | [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | [네트워크.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) | ✔ | 이호산 |
 | 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | | ❌ | |
 | 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | | ❌ | |
 | 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | | ❌ | |
