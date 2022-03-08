@@ -4,27 +4,25 @@
 
 ## 코드  
 ```python
-
 N, S, M = map(int, input().split())
 V = list(map(int, input().split()))
-cache = [ [0, 0] for _ in range(N) ]
+cache = [[0 for _ in range(M+1)] for _ in range(N+1) ]
 
-def plus_check(i, j):
-    return cache[i-1][j]+V[i] if 0 <= cache[i-1][j]+V[i] <= M else -1
+# 시작 볼륨 설정
+cache[0][S] = 1
 
-def minus_check(i, j):
-    return cache[i-1][j]-V[i] if 0 <= cache[i-1][j]+V[i] else -1
-
-# cache[i][0] = P + V[i]
-# cache[i][1] = P - V[i]
-cache[0][0] = S+V[0] if S+V[0] <= M else S
-cache[0][1] = S-V[0] if S-V[0] >= 0 else S
-for i in range(1, N):
-    cache[i][0] = max(cache[i-1][0]+V[i], cache[i-1][1]+V[i])
-    cache[i][1] = max(cache[i-1][0]-V[i], cache[i-1][1]-V[i])
-    if cache[i][0] > M or cache[i][1] < 0:
-        print(-1)
+for i in range(1, N+1):
+    for j in range(M+1):
+        if cache[i-1][j] == 0:
+            continue
+        if j - V[i-1] >= 0:
+            cache[i][j - V[i-1]] = 1
+        if j + V[i-1] <= M:
+            cache[i][j + V[i-1]] = 1
+for k in range(M, -1, -1):
+    if cache[N][k]:
+        print(k)
         break
 else:
-    print(max(cache[N-1]))
+    print(-1)
 ```
