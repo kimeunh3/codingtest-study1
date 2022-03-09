@@ -45,9 +45,9 @@
 | 39  | 22-03-02 | 소수찾기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) | [소수찾기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/6%EC%A3%BC%EC%B0%A8-1/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py) | ✔ | 양해찬 |
 | 40  | 22-03-02 | ADD_X | [문제](https://programmers.co.kr/learn/courses/30/lessons/86051) | [없는숫자더하기.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/6%EC%A3%BC%EC%B0%A8-1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0.py) | ✔ | 양해찬 |
 | 41  | 22-03-02 | 네트워크 | [문제](https://programmers.co.kr/learn/courses/30/lessons/43162) | [네트워크.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py) | ✔ | 이호산 |
-| 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | | ❌ | |
-| 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | | ❌ | |
-| 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | | ❌ | |
+| 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | [백준 1966](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201966) | ✔ | 배서영 |
+| 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | [백준 1697](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201697) | ✔ | 배서영 |
+| 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | [감소하는수.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.py) | ✔ | 이호산 |
 
 ## Tips
 
