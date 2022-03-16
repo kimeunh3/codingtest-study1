@@ -48,6 +48,11 @@
 | 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | [백준 1966](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201966) | ✔ | 배서영 |
 | 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | [백준 1697](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201697) | ✔ | 배서영 |
 | 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | [감소하는수.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.py) | ✔ | 이호산 |
+| 45  | 22-03-22 | 리모컨 | [문제](https://www.acmicpc.net/problem/1107) | []() | ❌ | |
+| 46  | 22-03-22 | 등산 마니아 | [문제](https://www.acmicpc.net/problem/20188) | []() | ❌ | |
+| 47  | 22-03-22 | 동전 분배 | [문제](https://www.acmicpc.net/problem/1943) | []() | ❌ | |
+| 48  | 22-03-22 | Z | [문제](https://www.acmicpc.net/problem/1074) | []() | ❌ | |
+| 49  | 22-03-22 | 통계학 | [문제](https://www.acmicpc.net/problem/2108) | []() | ❌ | |
 
 ## Tips
 
