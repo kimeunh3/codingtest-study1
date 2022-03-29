@@ -53,6 +53,9 @@
 | 47  | 22-03-22 | 동전 분배 | [문제](https://www.acmicpc.net/problem/1943) | []() | ❌ | |
 | 48  | 22-03-22 | Z | [문제](https://www.acmicpc.net/problem/1074) | []() | ❌ | |
 | 49  | 22-03-22 | 통계학 | [문제](https://www.acmicpc.net/problem/2108) | []() | ❌ | |
+| 50  | 22-03-29 | 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) | []() | ❌ | |
+| 51  | 22-03-29 | 행렬 테두리 회전하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) | []() | ❌ | |
+| 52  | 22-03-29 | 다단계 칫솔 판매 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77486) | []() | ❌ | |
 
 ## Tips
 
