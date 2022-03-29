@@ -13,7 +13,6 @@ def z_recursive(x, y, N):
                 if i == r and j == c:
                     print(num)
                     exit(0)
-        return
 
     # 현재 탐색하는 사분면의 범위에 (r, c)좌표가 없으면 
     # 해당 사분면의 칸 개수만큼 순번으로 더한다.
