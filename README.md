@@ -48,14 +48,12 @@
 | 42  | 22-03-05 | 프린터 큐 | [문제](https://www.acmicpc.net/problem/1966) | [백준 1966](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201966) | ✔ | 배서영 |
 | 43  | 22-03-05 | 숨바꼭질 | [문제](https://www.acmicpc.net/problem/1697) | [백준 1697](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%EB%B0%B1%EC%A4%80/%EB%B0%B1%EC%A4%80%201697) | ✔ | 배서영 |
 | 44  | 22-03-05 | 감소하는 수 | [문제](https://www.acmicpc.net/problem/1038) | [감소하는수.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/Hosan_Lee/%EB%B0%B1%EC%A4%80/%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%EC%88%98.py) | ✔ | 이호산 |
-| 45  | 22-03-22 | 리모컨 | [문제](https://www.acmicpc.net/problem/1107) | []() | ❌ | |
-| 46  | 22-03-22 | 등산 마니아 | [문제](https://www.acmicpc.net/problem/20188) | []() | ❌ | |
-| 47  | 22-03-22 | 동전 분배 | [문제](https://www.acmicpc.net/problem/1943) | []() | ❌ | |
-| 48  | 22-03-22 | Z | [문제](https://www.acmicpc.net/problem/1074) | []() | ❌ | |
-| 49  | 22-03-22 | 통계학 | [문제](https://www.acmicpc.net/problem/2108) | []() | ❌ | |
-| 50  | 22-03-29 | 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) | []() | ❌ | |
-| 51  | 22-03-29 | 행렬 테두리 회전하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) | []() | ❌ | |
-| 52  | 22-03-29 | 다단계 칫솔 판매 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77486) | []() | ❌ | |
+| 45  | 22-03-22 | 리모컨 | [문제](https://www.acmicpc.net/problem/1107) | [BOJ_1107_리모컨](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_12/BOJ_1107_%EB%A6%AC%EB%AA%A8%EC%BB%A8) | ✔ | 김은혜 |
+| 46  | 22-03-22 | Z | [문제](https://www.acmicpc.net/problem/1074) | [Z_1074.py](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/blob/master/haechan/7%EC%A3%BC%EC%B0%A8/Z_1074.py) | ✔ | 양해찬 |
+| 47  | 22-03-22 | 통계학 | [문제](https://www.acmicpc.net/problem/2108) | [BOJ_2108_통계학](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_12/BOJ_2108_%ED%86%B5%EA%B3%84%ED%95%99) | ✔ | 김은혜 |
+| 48  | 22-03-29 | 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) | [PRGRMRS_77484_로또의 최고_순위와_최저_순위](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_13/PRGRMRS_77484_%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84) | ✔ | 김은혜 |
+| 49  | 22-03-29 | 행렬 테두리 회전하기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) | [PRGRMRS_77485_행렬_테두리_회전하기](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/eunhyekim/DAY_13/PRGRMRS_77485_%ED%96%89%EB%A0%AC_%ED%85%8C%EB%91%90%EB%A6%AC_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) | ✔ | 김은혜 |
+| 50  | 22-03-29 | 다단계 칫솔 판매 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77486) | [다단계✅](https://kdt-gitlab.elice.io/eunhyekim1223/codingtest-study/-/tree/master/seoyoung/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A4%EB%8B%A8%EA%B3%84%E2%9C%85) | ✔ | 배서영 |
 
 ## Tips
 
